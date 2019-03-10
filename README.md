@@ -1,6 +1,5 @@
 # Python-Challenge
-
-Δ  
+  
 ------------------------------
 particles_in_square_lattice.py
 ------------------------------
@@ -35,11 +34,11 @@ value.
 
   2- Choose a particle at random and make a trial change in its position.
 
-  3- Compute \Delta E, the change in the potential energy of the system due to the trial move.
+  3- Compute ΔE, the change in the potential energy of the system due to the trial move.
 
-  4- If \Delta E is less than or equal to zero, accept the new configuration.
+  4- If ΔE is less than or equal to zero, accept the new configuration.
 
-  5- If \Delta E is positive, compute the quantity w = exp(-\Delta E)/KT.
+  5- If ΔE is positive, compute the quantity w = exp(-ΔE)/KT.
 
   6- Generate a uniform random number r in the unit interval [0,1].
 
