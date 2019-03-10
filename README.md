@@ -1,6 +1,6 @@
 # Python-Challenge
 
-U0394  
+Δ  
 ------------------------------
 particles_in_square_lattice.py
 ------------------------------
