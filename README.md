@@ -34,11 +34,11 @@ value.
 
   2- Choose a particle at random and make a trial change in its position.
 
-  3- Compute Delta_E, the change in the potential energy of the system due to the trial move.
+  3- Compute DeltaE, the change in the potential energy of the system due to the trial move.
 
-  4- If Delta_E is less than or equal to zero, accept the new configuration.
+  4- If DeltaE is less than or equal to zero, accept the new configuration.
 
-  5- If Delta_E is positive, compute the quantity w = exp(-Delta_E)/KT.
+  5- If DeltaE is positive, compute the quantity w = exp(-DeltaE)/KT.
 
   6- Generate a uniform random number r in the unit interval [0,1].
 
