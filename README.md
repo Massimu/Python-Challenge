@@ -1,6 +1,6 @@
 # Python-Challenge
 
-<Multi_key> <space> <D>  
+U0394  
 ------------------------------
 particles_in_square_lattice.py
 ------------------------------
