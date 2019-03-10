@@ -2,7 +2,7 @@
 ------------------------------
 particles_in_square_lattice.py
 ------------------------------
-
+$\alpha$
 This py file includes the desired program to implement a MC simulation
 of particles in a square lattice. One can insert the size of the box,
 the number of particles, and the number of iterations as L_box, N, n_steps.
