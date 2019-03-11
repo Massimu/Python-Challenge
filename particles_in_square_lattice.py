@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 #------------------------------------------------------------------------------
 #setting input arguments L_box / N / n_steps
 if(len(sys.argv) < 4 or len(sys.argv) > 4):
-	print ('Not enough arguments,\n Please ENTER the box length as "L_box"\
+	print ('Not enough arguments,\n Please ENTER the box length as "L_box" \
         \n ,the number of particles "N", and \the number of iterations as "n_steps" ')
 	exit() 
 if(len(sys.argv)>1):
